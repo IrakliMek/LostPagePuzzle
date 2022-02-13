@@ -2,6 +2,9 @@
 SpriteKit iOS Game
 
 ![Screenshot](1.jpg)
+![Screenshot](2.jpg)
+![Screenshot](3.jpg)
+![Screenshot](4.jpg)
 
 Game with unique gameplay. A puzzle game where you have to click on the picture in time to complete it. The project is written on the SpriteKit engine with Objective C
 
