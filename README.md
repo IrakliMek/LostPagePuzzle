@@ -1,7 +1,7 @@
 # LostPagePuzzle
 SpriteKit iOS Game
 
-![Watch the video](Puzzle_XS_5-iphone11.mp4)
+![Demo](Puzzle_XS_5-iphone11.mp4)
 
 ![Screenshot](1.jpg)
 ![Screenshot](2.jpg)
